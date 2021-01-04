@@ -157,3 +157,7 @@ $RECYCLE.BIN/
 /AttachmentExportData
 /TfsWitMigrator.sln.ide
 /.vs
+
+
+#vscode ignore
+/.vscode
